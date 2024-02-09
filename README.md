@@ -1,10 +1,12 @@
 ### Hi there 👋
-hello. 
+hello. ello. hi.
 ### I am a human
 not a lollipop.
-### meow
-[cool song](https://www.youtube.com/watch?v=XG6aRxkcr9c)
-[another cool song]([https://www.youtube.com/watch?v=bkJ2hHHYp4U&ab_channel=DrumSlayer])
+meow.
+
+### lollipop person's cool songs list
+- ✨[cool song](https://www.youtube.com/watch?v=XG6aRxkcr9c)✨
+- ✨[another cool song](https://www.youtube.com/watch?v=bkJ2hHHYp4U&ab_channel=DrumSlayer)✨
 
 <!--
 **lollipop-person/lollipop-person** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
