@@ -2,7 +2,7 @@
 hello. ello. hi.
 ### I am a human
 not a lollipop.
-meow ^.^
+meow ^-^
 
 ### lollipop person's cool songs list
 - ✨[cool song](https://www.youtube.com/watch?v=XG6aRxkcr9c)✨
