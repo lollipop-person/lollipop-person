@@ -8,7 +8,7 @@ meow ^-^
 - ✨[cool song](https://www.youtube.com/watch?v=XG6aRxkcr9c)✨
 - ✨[another cool song](https://www.youtube.com/watch?v=bkJ2hHHYp4U&ab_channel=DrumSlayer)✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollipop-person&show_icons=true&theme=tokyonight))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollipop-person&show_icons=true&theme=tokyonight)
 
 <!--
 **lollipop-person/lollipop-person** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
