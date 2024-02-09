@@ -1,6 +1,5 @@
 # 💫 About Me:
-🍭 I am not a lollipop<br>✅ but I am lollipop person :)
-🤖 FTC 9854
+🍭 I am not a lollipop<br>✅ but I am lollipop person :)<br>🤖 FTC 9854
 # 💻 Tech Stack:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
