@@ -1,7 +1,5 @@
 # 💫 About Me:
 🍭 I am not a lollipop<br>✅ but I am lollipop person :)
-
-
 # 💻 Tech Stack:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -13,8 +11,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lollipop-person&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lollipop-person&theme=tokyonight&hide_border=false)<br/>
+# 🎵 Listening To:
+[![Chipi Chipi Chapa Chapa](https://ytcards.demolab.com/?id=XG6aRxkcr9c&title=CHIPI+CHIPI+CHAPA+CHAPA+DUBI+DUBI+1+HOUR&lang=en&timestamp=1704847271&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "CHIPI CHIPI CHAPA CHAPA DUBI DUBI [1 HOUR]")](https://www.youtube.com/watch?v=XG6aRxkcr9c&ab)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lollipop-person&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
