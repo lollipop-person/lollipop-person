@@ -1,26 +1,20 @@
-### Hi there 👋
-hello. ello. hi.
-### I am a human
-not a lollipop.
-meow ^-^
+# 💫 About Me:
+🍭 I am not a lollipop<br>✅ but I am lollipop person :)
 
-### lollipop person's cool songs list
-- ✨[cool song](https://www.youtube.com/watch?v=XG6aRxkcr9c)✨
-- ✨[another cool song](https://www.youtube.com/watch?v=bkJ2hHHYp4U&ab_channel=DrumSlayer)✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollipop-person&show_icons=true&theme=tokyonight)
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lollipop-person&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lollipop-person&theme=tokyonight&hide_border=false)<br/>
 
-<!--
-**lollipop-person/lollipop-person** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![](https://visitcount.itsvg.in/api?id=lollipop-person&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
