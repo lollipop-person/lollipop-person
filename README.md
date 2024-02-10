@@ -16,5 +16,4 @@
 [![Chipi Chipi Chapa Chapa](https://ytcards.demolab.com/?id=bkJ2hHHYp4U&title=[+1+Hour+]+Music+Video+-+Cats+(+The+Living+Tombstone&lang=en&timestamp=1455081734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "[1 Hour] Music Video - Cats (The Living Tombstone)")](https://www.youtube.com/watch?v=bkJ2hHHYp4U)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lollipop-person&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=lollipop-person&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
