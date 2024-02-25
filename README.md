@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me: 
 🍭 I am not a lollipop<br>✅ but I am lollipop person :)<br>🤖 FTC 9854
 # 💻 Tech Stack:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
@@ -17,3 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lollipop-person&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+-->
+
+read me's are too much effort i have other stuff to do.
